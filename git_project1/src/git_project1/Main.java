@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("원격저장소 연결 후 master에서 변경");
 		System.out.println("원격저장소로 로컬저장소 생성 그리고 프로젝트 생성");
 		System.out.println("again local");
+
 	}
 
 }
