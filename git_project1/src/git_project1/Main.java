@@ -7,11 +7,11 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Ã¹ ¹øÂ°");
-		System.out.println("branch1¿¡¼­ º¯°æ");
-		System.out.println("¿ø°İÀúÀå¼Ò ¿¬°á ÈÄ master¿¡¼­ º¯°æ");
-		System.out.println("¿ø°İÀúÀå¼Ò·Î ·ÎÄÃÀúÀå¼Ò »ı¼º ±×¸®°í ÇÁ·ÎÁ§Æ® »ı¼º");
-		System.out.println("·ÎÄÃ¿¡¼­ Ãæµ¹ ÀçÇö");
+		System.out.println("ì²« ë²ˆì§¸");
+		System.out.println("branch1ì—ì„œ ë³€ê²½");
+		System.out.println("ì›ê²©ì €ì¥ì†Œ ì—°ê²° í›„ masterì—ì„œ ë³€ê²½");
+		System.out.println("ì›ê²©ì €ì¥ì†Œë¡œ ë¡œì»¬ì €ì¥ì†Œ ìƒì„± ê·¸ë¦¬ê³  í”„ë¡œì íŠ¸ ìƒì„±");
+		System.out.println("again");
 	}
 
 }
